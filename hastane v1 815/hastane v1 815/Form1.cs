@@ -19,8 +19,6 @@ namespace hastane_v1_815
             InitializeComponent();
         }
 
-        
-
         private void btnOnayla_Click(object sender, EventArgs e)
         {
             sayac++;
@@ -58,9 +56,7 @@ namespace hastane_v1_815
             txtSoyad.Clear();
             txtTc.Clear();
             txtTel.Clear();
-            cmbKan.Items.Clear();
-            
-
+            cmbKan.Update();
         }
 
         private void button1_Click(object sender, EventArgs e)
