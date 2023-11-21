@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\bin\Debug\hastane v1 815.exe.config
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\bin\Debug\hastane v1 815.exe
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\bin\Debug\hastane v1 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane v1 815.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane v1 815.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane_v1_815.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane v1 815.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane v1 815.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane v1 815.exe
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane v1 815.pdb
+C:\Users\User\Desktop\KORUMASIZ\yezda\hastane v1 815\hastane v1 815\obj\Debug\hastane_v1_815.Bilgileiniz.resources
